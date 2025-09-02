@@ -65,8 +65,10 @@ O projeto está organizado da seguinte forma:
 
 ## ✅ Como Executar os Testes
 
-Os testes foram escritos com JUnit 5 e podem ser executados diretamente pela sua IDE.
+Os testes foram escritos com JUnit 5 e podem ser executados com o Maven.
 
-1.  Importe o projeto na IDE.
-2.  Navegue até o diretório `src/test/java`.
-3.  Clique com o botão direito sobre o pacote `io.github.pedr88.sistemadevotacao` e selecione a opção "Run Tests".
+1.  Navegue até o diretório raiz do projeto.
+2.  Execute o seguinte comando:
+    ```bash
+    mvn test
+    ```
