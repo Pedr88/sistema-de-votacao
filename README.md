@@ -49,11 +49,19 @@ O projeto está organizado da seguinte forma:
     java io.github.pedr88.sistemadevotacao.Principal
     ```
 
-### Execução via IDE
+### Execução via Maven
 
-1.  Importe o projeto em sua IDE favorita (IntelliJ, Eclipse, VS Code com extensões Java).
-2.  Localize o arquivo `Principal.java`.
-3.  Execute o método `main()` contido nele.
+1.  Clone o repositório para sua máquina local.
+
+2.  Navegue até o diretório raiz do projeto e compile os arquivos Java:
+    ```bash
+    mvn compile
+    ```
+
+3.  Execute a classe principal:
+    ```bash
+    mvn exec:java -Dexec.mainClass="io.github.pedr88.regradeprogressao.App"
+    ```
 
 ## ✅ Como Executar os Testes
 
