@@ -13,6 +13,7 @@ Este é um projeto simples de um sistema de votação desenvolvido em Java. Ele 
 ## 🛠️ Tecnologias Utilizadas
 
 -   **Java**: Linguagem principal do projeto.
+-   **Maven**: Para gerenciamento de dependências e build do projeto.
 -   **JUnit 5**: Para a execução dos testes unitários.
 
 ## 📂 Estrutura do Projeto
