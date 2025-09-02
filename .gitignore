@@ -50,5 +50,5 @@ out/
 # =========================================
 .DS_Store
 Thumbs.db
-*_Zone.Identifier
+*java_Zone.Identifier
 
