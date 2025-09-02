@@ -60,7 +60,7 @@ O projeto está organizado da seguinte forma:
 
 3.  Execute a classe principal:
     ```bash
-    mvn exec:java -Dexec.mainClass="io.github.pedr88.regradeprogressao.App"
+    mvn exec:java -Dexec.mainClass="io.github.pedr88.sistemadevotacao.App"
     ```
 
 ## ✅ Como Executar os Testes
