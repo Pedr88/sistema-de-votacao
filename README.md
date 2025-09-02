@@ -32,7 +32,7 @@ O projeto está organizado da seguinte forma:
 
 ### Pré-requisitos
 
--   É necessário ter o **JDK (Java Development Kit)** instalado em sua máquina (versão 11 ou superior).
+-   É necessário ter o **JDK (Java Development Kit)** instalado em sua máquina.
 
 ### Execução via Linha de Comando
 
